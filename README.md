@@ -11,12 +11,12 @@
 - 🛠️ Ferramentas: [Visual Studio,Scrath, P5js].
 - 🌐 Desenvolvimento Web: [NADA].
 
-## Projetos Destacados
+## Meus Projetos
 - [PONG](https://github.com/daviGABRIEL12/Pong-No-Java)): JOGO DO PONG PELO P5JS.
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daviGABRIEL12&show_icons=true&theme=dark)
-## Conecte-se Comigo
+## Fale comigo
 - 📫 Entre em contato comigo: [perez.davi@escola.pr.gov.br].
 - 💬 LinkedIn: [NÃO TENHO].
 - 🐦 Twitter: [NÃO TENHO].
