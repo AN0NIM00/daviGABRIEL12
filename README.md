@@ -4,7 +4,7 @@
 - 😄 Meu nome é [Davi Gabriel].
 - 🌍 Moro em [Paranaguá].
 - 👩‍💻 Sou um entusiasta da tecnologia e desenvolvedor de software.
-- 🎓 Tenho formação em [Helena Viana Sundin].
+- 🎓 Estudo no [Helena Viana Sundin].
 
 ## Minhas Habilidades
 - 🚀 Linguagens de programação: [Java Script].
