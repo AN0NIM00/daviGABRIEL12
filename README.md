@@ -25,7 +25,7 @@
 
 ## OUTROS
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daviGABRIEL12&theme=dark&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Obrigado por Visitar!
 Obrigado por conferir o meu perfil. Sinta-se à vontade para explorar os meus projetos e entrar em contato comigo. Espero que possamos colaborar em algo interessante juntos! 😊
