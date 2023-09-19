@@ -9,8 +9,6 @@
 - 🎓 Estudo no [Helena Viana Sundin].
 
 ## Minhas Habilidades
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
 - 🚀 Linguagens de programação: [Java Script].
 - 🛠️ Ferramentas: [Visual Studio,Scrath, P5js].
 - 🌐 Desenvolvimento Web: [NADA].
@@ -24,6 +22,10 @@
 - 📫 Entre em contato comigo: [perez.davi@escola.pr.gov.br].
 - 💬 LinkedIn: [NÃO TENHO].
 - 🐦 Twitter: [NÃO TENHO].
+
+## OUTROS
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Obrigado por Visitar!
 Obrigado por conferir o meu perfil. Sinta-se à vontade para explorar os meus projetos e entrar em contato comigo. Espero que possamos colaborar em algo interessante juntos! 😊
