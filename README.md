@@ -1,4 +1,4 @@
-<img align="right" alt="https://media.tenor.com/hVXVO05BaRsAAAAd/geometric-abstract.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/geometric-abstract-background-looping-gif-13113745">
 
 # Bem-vindo ao Meu Perfil do GitHub 👋
 
